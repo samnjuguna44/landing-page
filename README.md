@@ -1,6 +1,10 @@
-# landing-page
+# Ecommerce Landing-page
 
-## Project setup
+## Project Details
+Landing created using Vue.Js and Vuetify. Contains a Navbar, Sidemenu, Dashboard thats part of the Homepage and a Footer.
+
+
+## Project Setup
 ```
 npm install
 ```
