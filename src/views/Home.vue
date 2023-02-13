@@ -1,29 +1,28 @@
 <template>
   <v-app>
-    <TopBar class="index"/>
+    <TopBar class="index" />
     <DashBoard />
     <Footer />
   </v-app>
 </template>
 
 <script>
-  import TopBar from '../components/TopBar';
-  import DashBoard from '../components/DashBoard';
-  import Footer from '../components/Footer';
+import TopBar from "../components/TopBar";
+import DashBoard from "../components/DashBoard";
+import Footer from "../components/Footer";
 
-  export default {
-    name: 'Home',
+export default {
+  name: "Home",
 
-    components: {
-      TopBar,
-      DashBoard,
-      Footer,
-    },
-  }
+  components: {
+    TopBar,
+    DashBoard,
+    Footer,
+  },
+};
 </script>
 
 <style scoped>
-
 .index {
   z-index: 9999;
 }

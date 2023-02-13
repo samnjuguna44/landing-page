@@ -21,7 +21,7 @@
         text-align: center;
       "
     >
-      <h4>ShopPro</h4>
+      <h4>Samson's Shop</h4>
     </div>
     <v-spacer></v-spacer>
 
